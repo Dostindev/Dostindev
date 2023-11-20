@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Dostin Santana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Bickham+script+pro&weight=300&size=17&pause=1000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Software+Developer.%F0%9F%87%A9%F0%9F%87%B4%E2%80%8B;Knowledge+in+Fullstack+Web.%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%80%8B%F0%9F%8E%96%EF%B8%8F%E2%80%8B;Welcome+to+my+Github!%F0%9F%92%B2%E2%80%8B%F0%9F%92%B2%E2%80%8B%F0%9F%92%B2%E2%80%8B" alt="Typing SVG" /></a>
 </p>
 
 
