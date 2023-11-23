@@ -218,7 +218,7 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/Dostindev/DostinWebsite.">
+	<a href=" https://dostindev.github.io/DostinWebsite.">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dostindev&repo=DostinWebsite.&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Dostindev/Dostin-Website">
