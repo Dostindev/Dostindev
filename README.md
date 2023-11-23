@@ -182,9 +182,9 @@
 ---
 
 <p align = "center">
-	<p><a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" alt="Readme Quotes"></a></p>
+	<p><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" alt="Readme-Quotes"></a></p>
 <p align = "center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monserrat&pause=1000&background=000000&center=true&random=false&width=435&lines=Thank+you+for+viewing+my+content.%3C%2F%3E%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;It+was+a+pleasure.%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%92%A5" alt="Typing SVG" /></a>		
+     <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=21&duration=4990&pause=1000&background=000000&center=true&random=false&width=435&lines=Thank+you+for+viewing+my+content.%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%80%8B%E2%80%8B%E2%9A%94%EF%B8%8F%E2%80%8B;it+was+a+pleasure.%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%80%8B%F0%9F%94%A5" alt="Typing SVG" /></a>		
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
