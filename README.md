@@ -1,8 +1,7 @@
 <h1 align="center">Hi , I'm Dostin Santana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&background=000000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github.%E2%80%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%E2%80%8B;I'm+a+Software+Developer.%E2%80%8B%E2%80%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%80%8B%F0%9F%94%A5;Knowledge+in+Fullstack-Web.%E2%80%8B%E2%80%8B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%80%8B%E2%9A%94%EF%B8%8F%E2%80%8B" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=00D9F7&background=000000&center=true&random=false&width=435&lines=Welcome+to+my+Github.;I'm+a+Software+developer.;Knowledge+in+Fullstack-Web." alt="Typing SVG" /></a>
 </p>
-
 
 <br>
 
@@ -25,7 +24,7 @@
 - :student: I’m currently learning `Fullstack-Web` and `Software Engineering`.
 - ⚔️​ Always `learning new technologies and advances`.
 - :thinking: I’m currently open for a new `job opportunities`, this is [My CV](https://drive.google.com/file/d/1b046knPzXEB5690c_qNxMixJetDHDhZA/view?usp=drive_link).
-- :boom: You can visit [My SPANISH Website](https://dostindev.github.io/DostinWebsite./)
+- :boom: You can visit [My SPANISH Website]( https://dostindev.github.io/DostinWebsite./)
 - 🧑‍🚀 You can also visit my other [ENGLISH Website](https://dostindev.github.io/Dostin-Website/)
 <br>
 
