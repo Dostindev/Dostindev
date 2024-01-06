@@ -14,7 +14,7 @@
 <h1>About me​​👨‍💻</h1>​
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
+\
 <br><br>
 
 - 👨‍💻​ I'm a `Software Developer` Freelancer.
@@ -23,7 +23,7 @@
 - :computer: I am a programmer specializing in `HTML`, `CSS`, `SCSS`, `Javascript`, `JQuery`, `Bootstrap`, `React`, `Redux`, `Angular`, `Git`, `C#`, `Node.JS`, `Typescript` & `Microsoft SQL Server`.
 - :student: I’m currently learning `Fullstack-Web` and `Software Engineering`.
 - ⚔️​ Always `learning new technologies and advances`.
-- :thinking: I’m currently open for a new `job opportunities`, this is [My CV](https://drive.google.com/file/d/1b046knPzXEB5690c_qNxMixJetDHDhZA/view?usp=drive_link).
+- :thinking: I’m currently open for a new `job opportunities`, this is [My CV](https://drive.google.com/file/d/1AjaDKlOQjyTYfMDd1cn-Uvt5KiGS8uc2/view?usp=drive_link).
 - :boom: You can visit [My SPANISH Website]( https://dostindev.github.io/DostinWebsite./)
 - 🧑‍🚀 You can also visit my other [ENGLISH Website](https://dostindev.github.io/Dostin-Website/)
 <br>
