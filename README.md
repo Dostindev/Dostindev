@@ -18,7 +18,7 @@
 <br><br>
 
 - 👨‍💻​ I'm a `Software Developer` Freelancer.
-- 💻 I'm `22 years old`.
+- 💻 I'm `23 years old`.
 - :technologist: I'm passionate about finding efficient solutions through the strategic use of `software`to address various situations.
 - :computer: I am a programmer specializing in `HTML`, `CSS`, `SCSS`, `Javascript`, `JQuery`, `Bootstrap`, `React`, `Redux`, `Angular`, `Git`, `C#`, `Node.JS`, `Typescript` & `Microsoft SQL Server`.
 - :student: I’m currently learning `Fullstack-Web` and `Software Engineering`.
